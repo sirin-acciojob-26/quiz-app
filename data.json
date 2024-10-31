@@ -1,0 +1,451 @@
+{
+    "sections": [
+        {
+            "sectionTitle": "General Knowledge",
+            "questions": [
+                {
+                    "questionType": "text",
+                    "question": "What is the capital of Hungary?",
+                    "answer": "Budapest"
+                },
+                {
+                    "questionType": "number",
+                    "question": "How many planets are there in the solar system?",
+                    "answer": 8
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Which gas do plants primarily use for photosynthesis?",
+                    "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+                    "answer": "Carbon dioxide"
+                },
+                {
+                    "questionType": "text",
+                    "question": "Which country is known as the 'Land of the Rising Sun'?",
+                    "answer": "Japan"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the atomic number of oxygen?",
+                    "answer": 8
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Who wrote 'To Kill a Mockingbird'?",
+                    "options": ["J.K. Rowling", "Harper Lee", "George Orwell", "Jane Austen"],
+                    "answer": "Harper Lee"
+                },
+                {
+                    "questionType": "text",
+                    "question": "Which planet is known as the 'Red Planet'?",
+                    "answer": "Mars"
+                },
+                {
+                    "questionType": "number",
+                    "question": "How many years are there in a century?",
+                    "answer": 100
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "What is the chemical symbol for gold?",
+                    "options": ["Ag", "Au", "Fe", "Pb"],
+                    "answer": "Au"
+                },
+                {
+                    "questionType": "text",
+                    "question": "Which city is famous for its leaning tower?",
+                    "answer": "Pisa"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the boiling point of water in Celsius?",
+                    "answer": 100
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Who painted the Mona Lisa?",
+                    "options": ["Vincent van Gogh", "Pablo Picasso", "Leonardo da Vinci", "Claude Monet"],
+                    "answer": "Leonardo da Vinci"
+                },
+                {
+                    "questionType": "text",
+                    "question": "Which is the longest river in the world?",
+                    "answer": "Nile"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the speed of light in vacuum in meters per second?",
+                    "answer": 299792458
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "What is the chemical symbol for water?",
+                    "options": ["H2O", "CO2", "O2", "HCl"],
+                    "answer": "H2O"
+                },
+                {
+                    "questionType": "text",
+                    "question": "Which country is known as the 'Pearl of Africa'?",
+                    "answer": "Uganda"
+                },
+                {
+                    "questionType": "number",
+                    "question": "How many bones are there in the adult human body?",
+                    "answer": 206
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Which of the following is the largest organ in the human body?",
+                    "options": ["Heart", "Liver", "Skin", "Brain"],
+                    "answer": "Skin"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the currency of Brazil?",
+                    "answer": "Real"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the value of pi (π) to two decimal places?",
+                    "answer": 3.14
+                }
+            ]
+        },
+        {
+            "sectionTitle": "Science",
+            "questions": [
+                {
+                    "questionType": "mcq",
+                    "question": "What is the chemical symbol for iron?",
+                    "options": ["Fe", "Ag", "Au", "Pb"],
+                    "answer": "Fe"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the process by which plants make their food?",
+                    "answer": "Photosynthesis"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the freezing point of water in Celsius?",
+                    "answer": 0
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Which of the following is not a mammal?",
+                    "options": ["Whale", "Bat", "Crocodile", "Kangaroo"],
+                    "answer": "Crocodile"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the study of earthquakes called?",
+                    "answer": "Seismology"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the speed of sound in dry air at 20°C?",
+                    "answer": 343
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Which planet is known as the 'Morning Star' or the 'Evening Star'?",
+                    "options": ["Mercury", "Venus", "Mars", "Saturn"],
+                    "answer": "Venus"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the smallest unit of matter?",
+                    "answer": "Atom"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the acceleration due to gravity on Earth in m/s²?",
+                    "answer": 9.8
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Which gas is responsible for the ozone layer depletion?",
+                    "options": ["Carbon dioxide", "Nitrogen", "Oxygen", "Chlorofluorocarbons"],
+                    "answer": "Chlorofluorocarbons"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the SI unit of electric current?",
+                    "answer": "Ampere"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the atomic number of hydrogen?",
+                    "answer": 1
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Which of the following is not a state of matter?",
+                    "options": ["Solid", "Liquid", "Gas", "Light"],
+                    "answer": "Light"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the study of living organisms called?",
+                    "answer": "Biology"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the boiling point of nitrogen in Celsius?",
+                    "answer": -196
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Which is the densest planet in the solar system?",
+                    "options": ["Mercury", "Earth", "Jupiter", "Neptune"],
+                    "answer": "Earth"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the unit of electric resistance?",
+                    "answer": "Ohm"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the pH of pure water?",
+                    "answer": 7
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "What causes tides on Earth?",
+                    "options": ["Gravitational pull of the Moon and the Sun", "Rotation of the Earth", "Wind currents", "Earth's magnetic field"],
+                    "answer": "Gravitational pull of the Moon and the Sun"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the largest organ in the human body?",
+                    "answer": "Skin"
+                }
+            ]
+        },
+        {
+            "sectionTitle": "Mathematics",
+            "questions": [
+                {
+                    "questionType": "mcq",
+                    "question": "What is the value of pi (π) to two decimal places?",
+                    "options": ["3.14", "3.12", "3.16", "3.18"],
+                    "answer": "3.14"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the result of 6 multiplied by 8?",
+                    "answer": "48"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the square root of 144?",
+                    "answer": 12
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Which of the following is a prime number?",
+                    "options": ["8", "15", "17", "20"],
+                    "answer": "17"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the value of 'x' in the equation 2x - 5 = 11?",
+                    "answer": "8"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the value of 'y' if y² = 64?",
+                    "answer": 8
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "What is the sum of angles in a triangle?",
+                    "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+                    "answer": "180 degrees"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the value of 'a' if 2a + 7 = 15?",
+                    "answer": "4"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the value of 5 factorial?",
+                    "answer": 120
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "What is the value of 'pi (π)'?",
+                    "options": ["3.14", "3.12", "3.16", "3.18"],
+                    "answer": "3.14"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the result of 15 divided by 3?",
+                    "answer": "5"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the value of 'z' if z³ = 64?",
+                    "answer": 4
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "What is the area of a rectangle with length 6 and width 8?",
+                    "options": ["36", "42", "48", "56"],
+                    "answer": "48"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the value of 'b' in the equation 3b - 4 = 14?",
+                    "answer": "6"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the value of 'π' correct to two decimal places?",
+                    "answer": 3.14
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "What is the value of 'e' in the equation 5e + 9 = 29?",
+                    "options": ["4", "6", "8", "10"],
+                    "answer": "4"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the result of 24 minus 7?",
+                    "answer": "17"
+                },
+                {
+                    "questionType": "number",
+                    "question": "What is the value of 'x' if 3x + 10 = 25?",
+                    "answer": 5
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "What is the value of 'tau (τ)'?",
+                    "options": ["6.28", "3.14", "9.82", "1.62"],
+                    "answer": "6.28"
+                },
+                {
+                    "questionType": "text",
+                    "question": "What is the result of 9 divided by 3?",
+                    "answer": "3"
+                }
+            ]
+        },
+        {
+            "sectionTitle": "Indian History",
+            "questions": [
+                {
+                    "questionType": "mcq",
+                    "question": "Who was the first Prime Minister of India?",
+                    "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Vallabhbhai Patel", "Indira Gandhi"],
+                    "answer": "Jawaharlal Nehru"
+                },
+                {
+                    "questionType": "text",
+                    "question": "In which year did India gain independence?",
+                    "answer": "1947"
+                },
+                {
+                    "questionType": "number",
+                    "question": "How many states are there in India?",
+                    "answer": 28
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Who was the first President of India?",
+                    "options": ["Dr. Rajendra Prasad", "Dr. B.R. Ambedkar", "Sardar Vallabhbhai Patel", "Jawaharlal Nehru"],
+                    "answer": "Dr. Rajendra Prasad"
+                },
+                {
+                    "questionType": "text",
+                    "question": "Who was known as the 'Iron Man of India'?",
+                    "answer": "Sardar Vallabhbhai Patel"
+                },
+                {
+                    "questionType": "number",
+                    "question": "In which year was the Indian Constitution adopted?",
+                    "answer": 1950
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Who led the Dandi March in 1930?",
+                    "options": ["Mahatma Gandhi", "Subhas Chandra Bose", "Bhagat Singh", "Jawaharlal Nehru"],
+                    "answer": "Mahatma Gandhi"
+                },
+                {
+                    "questionType": "text",
+                    "question": "Who was the last Viceroy of India?",
+                    "answer": "Lord Mountbatten"
+                },
+                {
+                    "questionType": "number",
+                    "question": "When was the Indian National Congress founded?",
+                    "answer": 1885
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Who built the Red Fort in Delhi?",
+                    "options": ["Shah Jahan", "Aurangzeb", "Akbar", "Humayun"],
+                    "answer": "Shah Jahan"
+                },
+                {
+                    "questionType": "text",
+                    "question": "Who was the first Governor-General of independent India?",
+                    "answer": "Lord Mountbatten"
+                },
+                {
+                    "questionType": "number",
+                    "question": "In which year did the Battle of Plassey take place?",
+                    "answer": 1757
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Who was the founder of the Maurya Empire?",
+                    "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Bimbisara"],
+                    "answer": "Chandragupta Maurya"
+                },
+                {
+                    "questionType": "text",
+                    "question": "Who was the first Emperor of India?",
+                    "answer": "Chandragupta Maurya"
+                },
+                {
+                    "questionType": "number",
+                    "question": "When did the Revolt of 1857 begin?",
+                    "answer": 1857
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Who was the first Indian woman to become the President of the Indian National Congress?",
+                    "options": ["Sarojini Naidu", "Indira Gandhi", "Vijaya Lakshmi Pandit", "Annie Besant"],
+                    "answer": "Annie Besant"
+                },
+                {
+                    "questionType": "text",
+                    "question": "Who was the first Indian to win a Nobel Prize?",
+                    "answer": "Rabindranath Tagore"
+                },
+                {
+                    "questionType": "number",
+                    "question": "When was the partition of Bengal annulled?",
+                    "answer": 1911
+                },
+                {
+                    "questionType": "mcq",
+                    "question": "Who was the first Indian to be awarded the Bharat Ratna?",
+                    "options": ["C. Rajagopalachari", "Jawaharlal Nehru", "Sarvepalli Radhakrishnan", "C.V. Raman"],
+                    "answer": "C. Rajagopalachari"
+                },
+                {
+                    "questionType": "text",
+                    "question": "Who was the first Indian woman to become the Prime Minister of India?",
+                    "answer": "Indira Gandhi"
+                }
+            ]
+        }
+    ]
+}
